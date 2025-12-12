@@ -5,5 +5,4 @@ import com.wendellyv.course.entities.User;
 
 public interface UserRepository extends JpaRepository<User, Long>{
 
-	
 }
