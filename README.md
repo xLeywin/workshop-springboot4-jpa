@@ -11,7 +11,7 @@ Este projeto consiste no desenvolvimento de uma API REST com o objetivo de imple
 ![Modelo de Domínio](https://github.com/xLeywin/assets/blob/main/workshop-springboot4-jpa/domain-model.png)
 
 ## Instância de Domínio
-![Instância de Domínio](https://github.com/xLeywin/assets/blob/main/workshop-springboot4-jpa/instance-domain.png)
+![Instância de Domínio](https://github.com/xLeywin/assets/blob/main/workshop-springboot4-jpa/domain-instance.png)
 
 # Tecnologias utilizadas
 ## Back end
