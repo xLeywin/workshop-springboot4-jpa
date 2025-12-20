@@ -1,11 +1,11 @@
 # Big Game Survey 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/xLeywin/workshop-springboot4-jpa/blob/main/LICENSE) 
 
 # Sobre o projeto
 
 https://wmazoni-sds1.netlify.app
 
-Big Game Survey é uma aplicação full stack web e mobile construída durante a 1ª edição da **Semana DevSuperior** (#sds1), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
+Projeto web services com Spring Boot e JPA / Hibernate
 
 A aplicação consiste em uma pesquisa de preferência de games, onde os dados são coletados no app mobile, e depois são listados no app web, que também apresenta um dashboard com gráficos baseados nestes dados.
 
@@ -13,12 +13,12 @@ A aplicação consiste em uma pesquisa de preferência de games, onde os dados s
 ![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
 
 ## Layout web
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
+![Web 1](link)
 
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
+![Web 2](link)
 
 ## Modelo conceitual
-![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
+![Modelo Conceitual](link)
 
 # Tecnologias utilizadas
 ## Back end
@@ -33,14 +33,14 @@ A aplicação consiste em uma pesquisa de preferência de games, onde os dados s
 - Apex Charts
 - Expo
 ## Implantação em produção
-- Back end: Heroku
-- Front end web: Netlify
+- Back end: Vercel
+- Front end web: 
 - Banco de dados: Postgresql
 
 # Como executar o projeto
 
 ## Back end
-Pré-requisitos: Java 11
+Pré-requisitos: Java 25
 
 ```bash
 # clonar repositório
@@ -72,6 +72,6 @@ yarn start
 
 # Autor
 
-Wellington Mazoni de Andrade
+Wendell Ylan Viani
 
-https://www.linkedin.com/in/wmazoni
+https://www.linkedin.com/in/wendellviani
